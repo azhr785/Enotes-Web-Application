@@ -29,3 +29,10 @@ To run the E-Notes web application locally, follow these steps:
 
 #### 3. Access the Application:
    *Open a web browser and go to http://localhost:8090/.
+
+
+# Project Structure
+  * src/ : Contains Java source code.
+  * web/ : Contains JSP, HTML, CSS, and other web resources.
+
+# Features
