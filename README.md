@@ -43,3 +43,7 @@ To run the E-Notes web application locally, follow these steps:
       * Edit existing notes.
       * View a list of notes.
       * Delete unwanted notes.
+
+# Usage
+  1.Register an Account:
+    * Access the application and register for a new account.
