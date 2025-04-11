@@ -8,11 +8,11 @@ E-Notes is a web application that allows users to take and save notes. Users can
 # Technologies Used
 
 * Java
-JSP (JavaServer Pages)
-Servlet
-MySQL
-JDBC (Java Database Connectivity)
-HTML
-CSS
-Bootstrap
-Tomcat (Local server)
+* JSP (JavaServer Pages)
+* Servlet
+* MySQL
+* JDBC (Java Database Connectivity)
+* HTML
+* CSS
+* Bootstrap
+* Tomcat (Local server)
