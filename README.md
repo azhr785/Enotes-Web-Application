@@ -46,4 +46,4 @@ To run the E-Notes web application locally, follow these steps:
 
 # Usage
   1.Register an Account:
-    * Access the application and register for a new account.
+    *  Access the application and register for a new account.
