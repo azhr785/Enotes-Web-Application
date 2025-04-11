@@ -45,11 +45,11 @@ To run the E-Notes web application locally, follow these steps:
       ** Delete unwanted notes.
 
 # Usage
-  1.Register an Account:
+  - Register an Account:
     - Access the application and register for a new account.
-  2.Log In:
+  - Log In:
     - Log in using your registered credentials.
-  3.Manage Notes:
+  - Manage Notes:
     - Create, edit, show, and delete your notes.
 
 # ScreenShots
