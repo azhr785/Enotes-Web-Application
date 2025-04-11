@@ -36,8 +36,8 @@ To run the E-Notes web application locally, follow these steps:
   * web/ : Contains JSP, HTML, CSS, and other web resources.
 
 # Features
-**User Registration**:Create a new account using name, email and new password to access the application.
-**User Authentication**: Login securely to your account and manage your notes.
+**User Registration**:Create a new account using name, email and new password to access the application.<br>
+**User Authentication**: Login securely to your account and manage your notes.<br>
 **Note Operations**: You will be able to do many operations in this app like
       * Create new notes.
       * Edit existing notes.
@@ -46,9 +46,9 @@ To run the E-Notes web application locally, follow these steps:
 
 # Usage
   1.Register an Account:
-    * Access the application and register for a new account.
+    - Access the application and register for a new account.
   2.Log In:
-    * Log in using your registered credentials.
+    - Log in using your registered credentials.
   3.Manage Notes:
     * Create, edit, show, and delete your notes.
 
