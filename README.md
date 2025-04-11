@@ -39,10 +39,10 @@ To run the E-Notes web application locally, follow these steps:
 * **User Registration**:Create a new account using name, email and new password to access the application.<br>
 * **User Authentication**: Login securely to your account and manage your notes.<br>
 * **Note Operations**: You will be able to do many operations in this app like<br>
-      * Create new notes.<br>
-      *  Edit existing notes.<br>
-      ** View a list of notes.<br>
-      ** Delete unwanted notes.
+      - Create new notes.<br>
+      - Edit existing notes.<br>
+      - View a list of notes.<br>
+      - Delete unwanted notes.
 
 # Usage
   - Register an Account:
