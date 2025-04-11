@@ -16,3 +16,9 @@ E-Notes is a web application that allows users to take and save notes. Users can
 * CSS
 * Bootstrap
 * Tomcat (Local server)
+
+# Getting Started
+To run the E-Notes web application locally, follow these steps:
+
+1. Database Setup:
+  * Set up a MySQL database and configure the connection details in your application.
