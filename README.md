@@ -61,3 +61,5 @@ To run the E-Notes web application locally, follow these steps:
 ![img3](https://github.com/user-attachments/assets/de93ba97-9384-4263-b919-3c0548c85551)
 
 ![img4](https://github.com/user-attachments/assets/39ba57ad-5bf0-453b-ac0d-efa2f8f689d3)
+
+![img5](https://github.com/user-attachments/assets/6a3a983b-ff91-4aca-9588-e8f30f32dcfc)
